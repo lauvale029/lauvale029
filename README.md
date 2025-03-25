@@ -31,7 +31,7 @@ I'm Valentina Pabón Cabezas, a Systems and Computing Engineering student at the
 </div>
 <!-- Icons and links -->
 <p>
-  <a href="www.linkedin.com/in/valentina-pabón-cabezas" target="_blank">
+  <a href="https://www.linkedin.com/in/valentina-pab%C3%B3n-cabezas/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
   &nbsp;&nbsp;
