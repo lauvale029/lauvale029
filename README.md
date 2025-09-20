@@ -1,13 +1,14 @@
 ## Hello 🌟  
 
-I'm Valentina Pabón Cabezas, a Systems and Computing Engineering student at the Universidad Nacional de Colombia. I'm training in data science and analysis, with a strong interest in artificial intelligence and machine learning. I also have experience managing databases in applications and using algorithms to solve real-world problems.  
+I'm Valentina Pabón Cabezas, a Systems and Computing Engineering student at the Universidad Nacional de Colombia. I have experience in data analysis, software development, and artificial intelligence, combining technical skills and research to build innovative solutions.
 
 ### ✨ About Me  
-- 🎓 I am currently in the process of completing an IBM Data Science diploma, aiming to deepen my knowledge in the field and apply my skills in the industry.  
-- 💡 My goal is to develop as a data scientist, exploring the potential of artificial intelligence and machine learning for data-driven decision-making.  
-- 🚀 I am interested in working with IBM or other leading technology companies, where I can contribute with data-driven solutions and innovation.  
-- 🗄️ I have experience managing databases in applications, ensuring efficient data storage and retrieval.  
-- 🤖 I have worked with reinforcement learning in Unreal within a real-world development environment, tuning hyperparameters to optimize agent behavior.  
+- 🎓 I am currently completing an IBM Data Science diploma and pursuing additional certifications to strengthen my expertise.
+- 💻 I have worked on software development projects using Python, React, Angular, FastAPI, Spring Boot, and Django, as well as cloud environments with AWS, Azure, and Docker.
+- 📊 My goal is to grow as a data scientist and software developer, applying data-driven and AI-powered solutions to real-world challenges.
+- 🤖 I have research experience in Reinforcement Learning and intelligent agents, tuning models and optimizing agent behavior in development environments.
+- 🌍 I aim to contribute to innovative projects in leading technology companies, combining data science, software engineering, and cloud computing to generate meaningful impact.
+- 🧑‍🤝‍🧑 I stand out for my leadership, teamwork, and communication skills, which allow me to create collaborative environments and achieve common goals.
 
 
 ## Skills
